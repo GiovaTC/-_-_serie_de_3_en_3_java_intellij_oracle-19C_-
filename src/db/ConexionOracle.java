@@ -9,7 +9,7 @@ public class ConexionOracle {
     private static final String USER = "system";
     private static final String PASSWORD = "Tapiero123";
 
-    public static Connection getConnection() throws Exception{
+    public static Connection getConnection() throws Exception {
         return DriverManager.getConnection(URL, USER, PASSWORD);
     }
-}   
+}
