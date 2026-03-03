@@ -5,6 +5,8 @@
        src="https://github.com/user-attachments/assets/7a991eda-337f-4563-92b2-263285c8d5cd" />
 </p>
 
+<img width="2549" height="1076" alt="image" src="https://github.com/user-attachments/assets/10a7e3ad-dcdd-4e8f-9fc7-b76f30f8a86a" />  
+
 ---
 
 A continuación se presenta un **diseño académico y profesional**, con pasos **exactos y ordenados**, seguido del **programa completo en Java**, integrado con **Oracle 19c**, para **sumar una serie de 3 en 3** y **registrar el resultado en la base de datos**.  
