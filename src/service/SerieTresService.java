@@ -18,4 +18,4 @@ public class SerieTresService {
         int resultado = calcularSuma(limite);
         dao.guardarResultado(limite, resultado);
     }
-}   
+}
