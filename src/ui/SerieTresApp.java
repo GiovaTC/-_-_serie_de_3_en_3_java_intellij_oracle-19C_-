@@ -9,7 +9,7 @@ public class SerieTresApp {
         Scanner scanner = new Scanner(System.in);
         SerieTresService service = new SerieTresService();
 
-        System.out.println("ingrese el numero: ");
+        System.out.print("ingrese el numero limite: ");
         int limite = scanner.nextInt();
 
         try {
@@ -23,4 +23,4 @@ public class SerieTresApp {
             System.err.println("ERROR: " + e.getMessage());
         }
     }
-}   
+}

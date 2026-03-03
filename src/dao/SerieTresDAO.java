@@ -7,7 +7,7 @@ import java.sql.Connection;
 public class SerieTresDAO {
 
     public void guardarResultado(int limite, int resultado) throws Exception {
-        String sql = "{ CALL SP_GUARDAR_SERIE_TRES(?, ?)}";
+        String sql = "{CALL SP_GUARDAR_SERIE_TRES(?, ?)}";
 
         try (Connection con = ConexionOracle.getConnection();
              CallableStatement cs = con.prepareCall(sql)) {
